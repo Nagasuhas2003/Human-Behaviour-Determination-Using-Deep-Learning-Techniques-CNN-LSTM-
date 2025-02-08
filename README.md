@@ -96,7 +96,10 @@ This will open a web-based UI where you can upload a video and get behavior pred
 ✅ LSTM for sequential learning
 ✅ Displays behavior predictions with confidence scores of Top three
 
-
+Note--- 
+```sh
+uploaded videos will be stored in uploads folder
+```
 
 
 
