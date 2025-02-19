@@ -24,43 +24,16 @@ This project implements a **Human Behaviour Determination** system using **Deep 
 4. **Prediction & Classification**: Determines the human behavior class based on learned patterns.  
 
 ## 📌 Installation & Usage  
-### 1️⃣ Clone the Repository  
+### Clone the Repository  
 ```sh
 git clone https://github.com/your-username/Human-Behaviour-Determination-DeepLearning.git
 cd Human-Behaviour-Determination-DeepLearning
 ```
-2️⃣ Install Dependencies
-```sh
-pip install -r requirements.txt
-```
 
-3️⃣ Run the Model
-```sh
-python main.py
+Steps To Run The Code:
 
-```
+1️⃣ Step 1 : Create Environment with Specified Name
 
-📂 Dataset
-The model can be trained on benchmark datasets like UCF101, HMDB51, or custom video datasets for human activity recognition.
-This model is Trained in UFC101 Dataset
-📊 Results & Performance
-Achieves high accuracy in behavior classification.
-Generalizes well across various real-world scenarios.
-Can be deployed for surveillance, healthcare monitoring, and behavioral analysis applications.
-🔮 Future Improvements
-Implementing Transformer-based models for enhanced sequence learning.
-Fine-tuning with self-supervised learning techniques.
-Deploying as a real-time mobile application.
-🤝 Contributing
-Feel free to contribute! Fork the repo, create a branch, and submit a pull request.
-
-📜 License
-This project is open-source under the MIT License.
-
-🚀 **Let me know if you need any modifications!** 🚀
-
-Steps To Run The Code:::
-1️⃣ Step 1 :Create Environment with Specified Name
 ```sh
 python -m venv venv
 venv\Scripts\activate
@@ -100,7 +73,24 @@ Note---
 ```sh
 uploaded videos will be stored in uploads folder
 ```
+📂 Dataset
+The model can be trained on benchmark datasets like UCF101, HMDB51, or custom video datasets for human activity recognition.
+This model is Trained in UFC101 Dataset
+📊 Results & Performance
+Achieves high accuracy in behavior classification.
+Generalizes well across various real-world scenarios.
+Can be deployed for surveillance, healthcare monitoring, and behavioral analysis applications.
+🔮 Future Improvements
+Implementing Transformer-based models for enhanced sequence learning.
+Fine-tuning with self-supervised learning techniques.
+Deploying as a real-time mobile application.
+🤝 Contributing
+Feel free to contribute! Fork the repo, create a branch, and submit a pull request.
 
+📜 License
+This project is open-source under the MIT License.
+
+🚀 **Let me know if you need any modifications!** 🚀
 
 
 
